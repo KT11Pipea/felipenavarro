@@ -10,7 +10,7 @@
 
 <?php
 class MyClass {
-	public static $str = "<h3>Hi my name is Felipe Navarro";
+	public static $str = "<h3>Hi my name is Felipe Navarro"; richard
 	public static $JR = "Administracion de Servicios Web <br>";
 	
 }
